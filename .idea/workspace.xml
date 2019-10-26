@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e71ea90e-d3c4-472c-ab2d-2b34d75ba296" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lsp/AustraliaOpen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lsp/AustraliaOpenCourt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lsp/ClayCourt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lsp/GrassCourt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lsp/HardCourt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lsp/MallorcaOpen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lsp/AustraliaOpenCourt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lsp/AustraliaOpenCourt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lsp/Court.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lsp/Court.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lsp/RolandGarrosCourt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lsp/RolandGarrosCourt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lsp/WimbledonCourt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lsp/WimbledonCourt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lsp/AustraliaOpenCourt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lsp/AustraliaOpenCourt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lsp/Court.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lsp/Court.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lsp/RolandGarrosCourt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lsp/RolandGarrosCourt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lsp/WimbledonCourt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lsp/WimbledonCourt.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>

@@ -1,9 +1,8 @@
 package lsp;
 
-public class AustraliaOpenCourt extends Court {
+public class AustraliaOpenCourt extends Court implements HardCourt {
 
-    @Override
-    public void cutGrass() {
-        //throw new IllegalArgumentException("Pista dura no tiene cesped que cortar");
+    public void cleanHardCourt() {
+
     }
 }
