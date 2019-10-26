@@ -1,6 +1,6 @@
 package isp;
 
-public class Visa implements Payment {
+public class Visa implements CreditCardPayment {
 
     public void calculatePayment() {
 
@@ -8,13 +8,5 @@ public class Visa implements Payment {
 
     public void creditCardPayment() {
 
-    }
-
-    public void bankTransferPayment() {
-        //NO CODIGO
-    }
-
-    public void cashPayment() {
-        //NO CODIGO
     }
 }
