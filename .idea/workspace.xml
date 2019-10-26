@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e71ea90e-d3c4-472c-ab2d-2b34d75ba296" name="Default Changelist" comment="" />
+    <list default="true" id="e71ea90e-d3c4-472c-ab2d-2b34d75ba296" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocp/LaunchDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/BlackFridayDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/BlackFridayDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/DiscountManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/DiscountManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocp/GoldDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocp/GoldDiscount.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ShQdDXs0ypr7pGqNivcTW0Av0X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />

@@ -1,8 +1,6 @@
 package ocp;
 
-public class Discount {
+public interface Discount {
 
-    public Double apply(Double price){
-        return price * 0.5;
-    }
+    Double apply(Double price);
 }
